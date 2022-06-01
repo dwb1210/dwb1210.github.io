@@ -2,7 +2,7 @@
 	font-family: Arial, sans-serif;
 }
 body {
-	background: lightblue;
+	background-image: linear-gradient(to bottom right, blue, yellow);
 }
 section {
 	display: flex;
