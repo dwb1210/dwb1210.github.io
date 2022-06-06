@@ -22,5 +22,7 @@ if (t < 0) {
 		document.getElementById("text").style.display = "block";
 		document.getElementById("pic").style.display = "block";
 		document.body.style.background = "linear-gradient(to bottom right, #202A44 , #6495ED";
+		document.getElementById("text").innerHTML = "<h2>833 DAYS!!</h2><br><p>It's been 833 days monkey.<br><br> But the day is finally here,<br> I cannot wait to see you in your dress. All my love x</p>"
+		document.getElementById("pic").src = "Images/spouses.png";
 		}
 }, 1000);
